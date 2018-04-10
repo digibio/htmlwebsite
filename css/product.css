@@ -427,7 +427,7 @@ body
     background-color: #00758d;
 
     background-repeat: repeat;
-    background-position: top left;
+    background-position: bottom;
 
     background-size:cover;
     -webkit-background-size:cover;
