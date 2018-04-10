@@ -1681,7 +1681,8 @@ screen and ( max-width: 999px ) and ( -webkit-min-device-pixel-ratio: 1.5 ) and 
     height: 851px;
 }
 
-#popup-8irb5gbtt0ea
+#popup-8irb5gbtt0e
+#element-492
 {
     height: 669px;
     width: 400px;
@@ -1689,7 +1690,27 @@ screen and ( max-width: 999px ) and ( -webkit-min-device-pixel-ratio: 1.5 ) and 
     top: 36px;
     z-index: 4;
 }
+/**/
+#popup-jobs-page .popup-inner
+{
+    width: 960px;
+    height: 851px;
+}
+#popup-jobs-page .popup-inner .modal-content
+{
+    width: 960px;
+    height: 851px;
+}
 
+#popup-jobs-page
+#element-jobs-page
+{
+    height: 669px;
+    width: 400px;
+    left: 280px;
+    top: 36px;
+    z-index: 4;
+}
 /*--*/
 #popup-jobs-page .popup-inner
 {
